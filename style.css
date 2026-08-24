@@ -169,7 +169,11 @@ box-shadow: 0 0 10px rgba(0,0,0,0.1);
 .content {
 padding: 40px;
 }
-.form { display:flex; flex-direction:column; gap:12px; }
+.form {
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+}
 .form label { font-weight: 600; color: #333; font-size: 0.95rem; }
 .form input, .form textarea {
   width: 100%;
