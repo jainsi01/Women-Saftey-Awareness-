@@ -266,5 +266,9 @@ footer {
   text-align: center;
   padding: 12px 0;
 }
-footer a { color: #fff; text-decoration: underline; opacity: 0.95; }
+footer a { 
+  color: #fff;
+  text-decoration: underline; 
+  opacity: 0.95; 
+}
 footer a:hover { opacity: 1; color: #fff; text-decoration: none; }
