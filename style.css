@@ -26,7 +26,14 @@ background: #fff;
   gap:12px;
   align-items:center;
 }
-.navbar nav a { color: white; text-decoration: none; font-weight: 600; opacity: 0.95; padding: 6px 8px; border-radius: 6px; }
+.navbar nav a { 
+  color: white; 
+  text-decoration: none; 
+  font-weight: 600;
+  opacity: 0.95;
+  padding: 6px 8px;
+  border-radius: 6px; 
+}
 .navbar nav a:hover { background: rgba(255,255,255,0.06); opacity: 1; text-decoration: none; }
 
 
